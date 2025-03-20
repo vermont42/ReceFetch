@@ -1,0 +1,76 @@
+{
+    "recipes": [
+      {
+            "cuisine": "Californian",
+            "name": "Banana Slug",
+            "photo_url_large": "https://raceconditionsoftware.s3.us-west-1.amazonaws.com/ReceFetch/img/BananaSlugLarge.jpg",
+            "photo_url_small": "https://raceconditionsoftware.s3.us-west-1.amazonaws.com/ReceFetch/img/BananaSlugSmall.jpg",
+            "source_url": "https://en.wikipedia.org/wiki/Banana_slug",
+            "uuid": "abc123",
+            "youtube_url": "https://youtu.be/tZ4Hn-3JURQ"
+      },
+      {
+            "cuisine": "Hawaiian",
+            "name": "Lilikoi Caramel Macadamia Nut Tart",
+            "photo_url_large": "https://raceconditionsoftware.s3.us-west-1.amazonaws.com/ReceFetch/img/TartLarge.jpg",
+            "photo_url_small": "https://raceconditionsoftware.s3.us-west-1.amazonaws.com/ReceFetch/img/TartSmall.jpg",
+            "source_url": "https://www.hawaiitartcompany.com",
+            "uuid": "xyz456",
+            "youtube_url": "https://youtu.be/xksmpCvSc94"
+      },
+      {
+            "cuisine": "British",
+            "name": "Rock Cakes",
+            "photo_url_large": "https://d3jbb8n5wk0qxi.cloudfront.net/photos/dce36ed7-d5bd-4532-9e9f-fafd75a4eb8f/large.jpg",
+            "photo_url_small": "https://d3jbb8n5wk0qxi.cloudfront.net/photos/dce36ed7-d5bd-4532-9e9f-fafd75a4eb8f/small.jpg",
+            "source_url": "https://www.bbc.co.uk/food/recipes/rock_cakes_03094",
+            "uuid": "cdc34bb5-c9e3-4465-9088-cf2e2aa8e4ee",
+            "youtube_url": "https://www.youtube.com/watch?v=tY3taZO3Aro"
+        },
+        {
+            "cuisine": "American",
+            "name": "Rocky Road Fudge",
+            "photo_url_large": "https://d3jbb8n5wk0qxi.cloudfront.net/photos/b51b389c-a408-4664-b0d2-a437cbc352b0/large.jpg",
+            "photo_url_small": "https://d3jbb8n5wk0qxi.cloudfront.net/photos/b51b389c-a408-4664-b0d2-a437cbc352b0/small.jpg",
+            "source_url": "http://tiphero.com/rocky-road-fudge/",
+            "uuid": "fe81ba97-ee9e-4af9-bc3a-4f7a86eeb820",
+            "youtube_url": "https://www.youtube.com/watch?v=N1aJ3nEYXyg"
+        },
+        {
+            "cuisine": "Polish",
+            "name": "Rogaliki",
+            "photo_url_large": "https://d3jbb8n5wk0qxi.cloudfront.net/photos/15d50359-5f62-4583-a9e9-d761bc58fecf/large.jpg",
+            "photo_url_small": "https://d3jbb8n5wk0qxi.cloudfront.net/photos/15d50359-5f62-4583-a9e9-d761bc58fecf/small.jpg",
+            "source_url": "https://www.food.com/recipe/rogaliki-polish-croissant-cookies-with-jam-filling-200668",
+            "uuid": "e084dc2c-37e7-4600-9b46-76e673e8e2d2",
+            "youtube_url": "https://www.youtube.com/watch?v=VAR10T9mfhU"
+        },
+        {
+            "cuisine": "American",
+            "name": "Salted Caramel Cheesecake",
+            "photo_url_large": "https://d3jbb8n5wk0qxi.cloudfront.net/photos/b75ee8ef-a290-4062-8b26-60722d75d09c/large.jpg",
+            "photo_url_small": "https://d3jbb8n5wk0qxi.cloudfront.net/photos/b75ee8ef-a290-4062-8b26-60722d75d09c/small.jpg",
+            "source_url": "http://www.janespatisserie.com/2015/11/09/no-bake-salted-caramel-cheesecake/",
+            "uuid": "23fb89ed-00ec-407e-8802-d0a510973df9",
+            "youtube_url": "https://www.youtube.com/watch?v=q5dQp3qpmI4"
+        },
+        {
+            "cuisine": "Malaysian",
+            "name": "Seri Muka Kuih",
+            "photo_url_large": "https://d3jbb8n5wk0qxi.cloudfront.net/photos/658442fe-e3d3-44a5-9081-e2424fb0129d/large.jpg",
+            "photo_url_small": "https://d3jbb8n5wk0qxi.cloudfront.net/photos/658442fe-e3d3-44a5-9081-e2424fb0129d/small.jpg",
+            "source_url": "https://makan.ch/recipe/kuih-seri-muka/",
+            "uuid": "c4560eaa-3c0f-4266-beba-4ddce62063e0",
+            "youtube_url": "https://www.youtube.com/watch?v=_NJtCfqgaBo"
+        },
+        {
+            "cuisine": "British",
+            "name": "Sticky Toffee Pudding",
+            "photo_url_large": "https://d3jbb8n5wk0qxi.cloudfront.net/photos/d9e32cfd-818d-4428-8f49-b3a6ae624f58/large.jpg",
+            "photo_url_small": "https://d3jbb8n5wk0qxi.cloudfront.net/photos/d9e32cfd-818d-4428-8f49-b3a6ae624f58/small.jpg",
+            "source_url": "https://www.bbc.co.uk/food/recipes/marys_sticky_toffee_41970",
+            "uuid": "ee112b29-829b-45c6-8c3d-3effe739c9f0",
+            "youtube_url": "https://www.youtube.com/watch?v=Wytv3bjqJII"
+        }
+    ]
+}

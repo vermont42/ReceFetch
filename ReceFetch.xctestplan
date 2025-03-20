@@ -1,0 +1,30 @@
+{
+  "configurations" : [
+    {
+      "id" : "E5F6FDF4-8A08-4154-AA8B-8AF40DB02E60",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:ReceFetch.xcodeproj",
+      "identifier" : "03D369B92D89CA6700A07CFC",
+      "name" : "ReceFetch"
+    },
+    "testExecutionOrdering" : "random"
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : false,
+      "target" : {
+        "containerPath" : "container:ReceFetch.xcodeproj",
+        "identifier" : "03D369C92D89CA6B00A07CFC",
+        "name" : "ReceFetchTests"
+      }
+    }
+  ],
+  "version" : 1
+}
