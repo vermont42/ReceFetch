@@ -26,7 +26,7 @@ In a large production app, I would likely use a dependency-injection framework f
 
 ### Time Spent
 
-I spent about eleven hours, broken out as follows:
+I spent about twelve hours, broken out as follows:
 
 1 hour: understanding the requirements and pondering the design
 
